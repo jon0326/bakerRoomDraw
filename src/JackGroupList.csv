@@ -1,0 +1,63 @@
+Points,Type,Person 1,Person 2,Person 3,Person 4,Person 5,Person 6,Person 7,Person 8,First Choice,Second Choice,Third Choice,Fourth Choice,Fifth Choice,Assigned Room
+3.25,Male,Levi Manns,Ricky Ranieri,Jeffry Garretson,Reginald Stauber,Gene Botts,Jeffrey Kratzer,Ben Rodriques,Michael Mccrady,281,381,461,481,,0
+2.75,Male,Cody Dunavant,Eduardo Stromain,Tyler Behrman,Carmen Sachs,Harry Kepner,Dexter Mcglaughlin,Billie Greeley,Giovanni Balding,381,461,481,281,,0
+3,Male,Zack Kovar,Pablo Rojero,Jamaal Aguilar,Renaldo Cosper,Miquel Thormahlen,Kermit Montagna,Harland Rodrique,Randall Weinert,461,481,281,381,,0
+3.75,Male,Jerrod Samuelson,Del Roseboro,Dewitt Lacoste,Ignacio Tomlinson,Ira Duffey,Von Sokolowski,Joe Stalzer,Martin Fallen,481,281,381,461,,0
+4,Male,Florencio Socha,Manuel Mullikin,Jimmie Schmitmeyer,Manuel Roberge,,,,,133,141,142,241,242,0
+1.75,Male,Gaylord Colyer,Willis Weems,Anton Potvin,Carroll Arbogast,,,,,141,142,241,242,133,0
+2,Male,Corey Markovich,Bradley Emerick,Jordan Rector,Amado Wisneski,,,,,142,241,242,133,141,0
+1.5,Male,Arlie Burbach,Nicky Sailer,Orville Padillo,Damian Bowland,,,,,241,242,133,141,142,0
+3.5,Male,Hilton Feit,Deandre Poppe,Rashad Paradis,Merlin Motta,,,,,242,133,141,142,241,0
+4.5,Male,Eddie Roesner,Brain Dore,Lyndon Fenimore,,,,,,121,223,224,291,294,0
+4,Male,Margarito Steinmetz,Caleb Reidhead,Emory Middaugh,,,,,,223,224,291,294,121,0
+4.25,Male,Graham Tardugno,Federico Grigg,Kermit Hiett,,,,,,224,291,294,121,223,0
+5,Male,Shon Coderre,Bret Bartkowski,Wendell Couture,,,,,,291,294,121,223,224,0
+2.75,Male,Quentin Gran,Randy Jesus,Newton Avants,,,,,,294,121,223,224,291,0
+4.75,Male,Justin Slevin,Denver Agbayani,,,,,,,111,217,114,301,172,0
+3.5,Male,Herbert Purcell,Zack Knack,,,,,,,114,274,171,311,173,0
+4.25,Male,Bruno Kranz,Kirk Linn,,,,,,,171,293,172,315,217,0
+5,Male,Christoper Glover,Warner Grazier,,,,,,,172,301,173,331,274,0
+4,Male,Jewell Huth,Valentin Wimbish,,,,,,,173,311,217,334,293,0
+2.25,Male,Roland Binney,Hershel Aitchison,,,,,,,217,315,274,372,301,0
+3,Male,Percy Sones,Marquis Kilby,,,,,,,274,331,293,373,311,0
+2.5,Male,Jarvis Jasper,Shaun Casler,,,,,,,293,334,301,376,315,0
+1.75,Male,Jed Monterrosa,Reed Weatherbee,,,,,,,301,372,311,411,111,0
+3,Male,Diego Capel,Clement Almeida,,,,,,,311,373,315,413,114,0
+1.75,Male,Frederick Calfee,Renato Treece,,,,,,,315,376,331,414,171,0
+4.5,Male,Isaias Laura,Darrin Flecha,,,,,,,331,411,334,476,172,0
+2.5,Male,Willy Holderman,Tyrone Garett,,,,,,,334,413,372,111,173,0
+1,Male,Noble Blankenship,Oswaldo Spelman,,,,,,,372,414,373,114,217,0
+4.25,Male,Marquis Gunnell,Shad Hodges,,,,,,,373,476,376,171,274,0
+2.75,Female,Laureen Mealy,Bryanna Worthy,Maryln Selke,Alta Gould,Ruthanne Ponte,Colette Mayfield,Adelina Komar,Misti Leffew,161,261,361,,,0
+1.25,Female,Claudie Lenton,Francina Cassella,Jennine Garren,Hwa Laffoon,Jovita Scarboro,Beaulah Bednarz,Pasty Naber,Haley Phair,261,361,161,,,0
+2,Female,Gia Meekins,Bethann Vicente,Kandace Swiderski,Artie Kurz,Muoi Digennaro,Rutha Gambill,Windy Haakenson,Clementine Castiglia,361,161,261,,,0
+3.25,Female,Blossom Fredrickson,Versie Puthoff,Jaclyn Ruder,Aurore Misiewicz,,,,,151,123,511,251,,0
+3.5,Female,Tatyana Risner,Veronique Steadman,Maryrose Schiefelbein,Dian Balke,,,,,123,251,511,151,,0
+4.5,Female,Lia Blaha,Sophia Hollar,Kimberely Depasquale,Shavon Braverman,,,,,251,151,511,123,,0
+1,Female,Cheree Vorce,Adrien Poitras,Karmen Brooks,Micheline Eyer,,,,,511,252,151,251,,0
+1,Female,Susan Nevius,Ginette Deschenes,Divina Sobol,Eulalia Tedrow,,,,,252,511,151,123,,0
+4.25,Female,Cassaundra Zendejas,Nova Mayhan,Yukiko Fullwood,,,,,,234,395,131,233,115,0
+1,Female,Setsuko Pelchat,Dorcas Mee,Shelli Grist,,,,,,115,234,395,131,305,0
+2.5,Female,Barbar Falcon,Denisha Sprenger,Juliet Petree,,,,,,131,395,233,115,234,0
+2.5,Female,Iesha Messner,Faustina Mcqueary,Paige Vasbinder,,,,,,395,115,131,305,234,0
+3,Female,Jessenia Gully,Marybelle Stops,Cathrine Wilsey,,,,,,272,131,115,234,305,0
+4,Female,Madonna Zeiger,Reyna Hallberg,Shondra Aquino,,,,,,233,272,305,115,395,0
+1.5,Female,Francesca Huffstetler,Coral Ohlinger,,,,,,,112,273,475,272,183,0
+2,Female,Vernie Loadholt,Angelique Kantner,,,,,,,113,271,371,314,112,0
+1,Female,Rolanda Bushnell,Candi Landreth,,,,,,,183,471,314,473,374,0
+2.5,Female,Garnett Chmielewski,Diana Blinn,,,,,,,213,231,332,215,471,0
+4.25,Female,Marlena Howser,Shaneka Palin,,,,,,,215,374,276,112,273,0
+3.75,Female,Vernita Slama,Shawnna Gros,,,,,,,231,215,312,475,473,0
+4.25,Female,Angele Ryan,Lorelei Aylor,,,,,,,271,495,471,113,332,0
+1.2,Female,Nadene Rough,Rosemarie Overson,,,,,,,272,473,112,273,312,0
+3.2,Female,Anneliese Oros,Emmaline Prouty,,,,,,,273,471,215,213,113,0
+4.1,Female,Amada Brunton,Arletha Boler,,,,,,,276,112,231,375,314,0
+1.15,Female,Gloria Eyre,Jone Ashburn,,,,,,,302,314,113,332,213,0
+5,Female,Keren Gaxiola,Audrea Birdwell,,,,,,,312,273,313,271,231,0
+4.75,Female,Rosa Pipkin,Dionne Pando,,,,,,,313,112,273,183,276,0
+2.75,Female,Margaretta Walraven,Alexandra Weakley,,,,,,,314,371,271,302,215,0
+1.25,Female,Maudie Twine,Chery Kahl,,,,,,,332,475,495,471,375,0
+2.5,Female,Erica Parmelee,Rosaria Hynd,,,,,,,371,332,473,374,475,0
+0.75,Female,Angel Skipworth,Annamaria Lutes,,,,,,,374,313,272,276,302,0
+2.5,Female,Dagmar Pompei,Griselda Bouffard,,,,,,,375,374,183,313,371,0
+3.75,Female,Edda Rapoza,Christinia Mcnamara,,,,,,,471,276,213,495,313,0

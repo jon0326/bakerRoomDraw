@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Baker Room Draw</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QVBoxLayout" name="verticalLayout">
+    <item>
+     <widget class="QTabWidget" name="tabWidget">
+      <property name="currentIndex">
+       <number>0</number>
+      </property>
+      <widget class="QWidget" name="roomAvailabilityTab">
+       <attribute name="title">
+        <string>Room Availability</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_2">
+        <item>
+         <widget class="QTableWidget" name="roomAvailabilityTable"/>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="jackGroupTab">
+       <attribute name="title">
+        <string>Jack Groups</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_3">
+        <item>
+         <widget class="QTableWidget" name="jackGroupTable"/>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="openRoomsTab">
+       <attribute name="title">
+        <string>Open Rooms</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_4">
+        <item>
+         <widget class="QTableWidget" name="openRoomsTable"/>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="sortedRoomsTab">
+       <attribute name="title">
+        <string>Sorted Rooms</string>
+       </attribute>
+       <layout class="QVBoxLayout" name="verticalLayout_5">
+        <item>
+         <widget class="QTableWidget" name="sortedRoomsTable"/>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuFile">
+    <property name="title">
+     <string>File</string>
+    </property>
+    <addaction name="actionNew"/>
+    <addaction name="actionOpen"/>
+    <addaction name="actionSave"/>
+   </widget>
+   <widget class="QMenu" name="menuProcess">
+    <property name="title">
+     <string>Process</string>
+    </property>
+    <widget class="QMenu" name="menuAssignRooms">
+     <property name="title">
+      <string>Assign Rooms</string>
+     </property>
+     <addaction name="actionAssignFromStart"/>
+     <addaction name="actionAssignFromCurrentRow"/>
+    </widget>
+    <addaction name="actionShuffle"/>
+    <addaction name="menuAssignRooms"/>
+   </widget>
+   <addaction name="menuFile"/>
+   <addaction name="menuProcess"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="actionNew">
+   <property name="text">
+    <string>Create Template for CSV</string>
+   </property>
+   <property name="statusTip">
+    <string>Create new file</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+N</string>
+   </property>
+  </action>
+  <action name="actionOpen">
+   <property name="text">
+    <string>Import</string>
+   </property>
+   <property name="statusTip">
+    <string>Open populated spreadsheets (CSV) to process</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+O</string>
+   </property>
+  </action>
+  <action name="actionSave">
+   <property name="text">
+    <string>Save</string>
+   </property>
+   <property name="statusTip">
+    <string>Save current files</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
+  </action>
+  <action name="actionShuffle">
+   <property name="text">
+    <string>Shuffle</string>
+   </property>
+   <property name="statusTip">
+    <string>Shuffle jack groups by points</string>
+   </property>
+  </action>
+  <action name="actionAssignFromStart">
+   <property name="text">
+    <string>From Start</string>
+   </property>
+   <property name="statusTip">
+    <string>Assign rooms from beginning of list</string>
+   </property>
+  </action>
+  <action name="actionAssignFromCurrentRow">
+   <property name="text">
+    <string>From Current row</string>
+   </property>
+   <property name="statusTip">
+    <string>Assign rooms from row currently selected in the Jack Groups tab</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
